@@ -83,9 +83,10 @@ This application serves as a tool for faculty to manage their office hours by of
 ## 🚀 Getting Started
 
 1. Clone the repo:
-   ```bash
-   git clone https://github.com/your-username/faculty-office-hours-manager.git
-```  
+```bash
+git clone https://github.com/your-username/faculty-office-hours-manager.git
+```
+
 2. Open in an IDE with JavaFX support (like IntelliJ or Eclipse)  
 3. Run `Main.java`
 
